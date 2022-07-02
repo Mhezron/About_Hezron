@@ -1,12 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is HEZRON NJOROGE
-======================================================================================================================================Software developer------------------* 
-🌍 I'm based in Kenya* 
+======================================================================================================
+
+    I am a full stack  developer
+
+🌍  I'm based in Kenya* 
  
  ✉️  You can contact me at [mhezron699@gmail.com](mailto:mhezron699@gmail.com)* 
  
- 🧠  I'm learning react* 
+ 🧠 I'm learning react* 
  
- 🤝  I'm open to collaborating on webdevelopment
+ 🤝 I'm open to collaborating on web development
 
 ### Skills
 
